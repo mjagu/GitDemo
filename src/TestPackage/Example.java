@@ -21,6 +21,8 @@ public class Example {
 	
 	public static void main(String[] args) {
 		System.out.println("this is a test for git learning");
+		System.out.println("this is a test for git learning from GitX or Gitstuff");
+		System.out.println("this is a test for git learning from GitX or Gitstuff2");
 	}
 
 }
