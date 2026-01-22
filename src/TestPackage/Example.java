@@ -23,6 +23,7 @@ public class Example {
 		System.out.println("this is a test for git learning");
 		System.out.println("this is a test for git learning from GitX or Gitstuff");
 		System.out.println("this is a test for git learning from GitX or Gitstuff2");
+		System.out.println("learning branching");
 	}
 
 }
