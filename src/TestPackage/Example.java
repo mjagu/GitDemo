@@ -24,6 +24,7 @@ public class Example {
 		System.out.println("this is a test for git learning from GitX or Gitstuff");
 		System.out.println("this is a test for git learning from GitX or Gitstuff2");
 		System.out.println("learning branching");
+		System.out.println("learning branching again");
 	}
 
 }
